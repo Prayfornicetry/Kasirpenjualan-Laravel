@@ -13,7 +13,7 @@
 <header>
     <div class="header-content">
         <div class="logo-container">
-            <img src="{{ asset('img/2.png') }}" alt="Logo Perusahaan" class="logo-img">
+            <img src="{{ asset('img/4.png') }}" alt="Logo Perusahaan" class="logo-img">
             <span class="brand-name">HARTANTO STORE</span>
         </div>
         <nav>
